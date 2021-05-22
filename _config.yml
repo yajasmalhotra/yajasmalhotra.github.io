@@ -36,7 +36,7 @@ twitter_username: yajasmalhotra
 github_username:  yajasmalhotra
 
 # Build settings
-theme: academic
+remote_theme: gaalcaras/academic
 plugins:
   - jekyll-feed
 
